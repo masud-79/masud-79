@@ -1,8 +1,7 @@
 ## Hi there 👋
- I am a final year Computer Science Engineering undergraduate with a strong understanding of
- Data Structures and Algorithms (DSA). I am skilled in web development technologies, including HTML,
- CSS, JavaScript, React, Node.js, and the MERN stack. While I am a beginner in blockchain technology, I
- am highly interested in both blockchain and machine learning. I am passionate about continuously learning
+ I am a Computer Science Engineering graduate with a strong understanding of
+ Data Structures and Algorithms (DSA) and Database Management System(DBMS) along with MySQL. I am skilled in web development technologies including HTML,
+ CSS, JavaScript and Node.js. Currently looking for entry level software job roles where I can continuously learn
  new concepts and technologies to enhance my knowledge and skills.
 
 <!--
